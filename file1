@@ -4,3 +4,8 @@ Line2
 Line3
 Line4
 Line5
+
+git config user.name
+git config user.email
+git status
+
