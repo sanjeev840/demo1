@@ -4,8 +4,10 @@ Line2
 Line3
 Line4
 Line5
+this line was added in file1
 
 git config user.name
 git config user.email
 git status
+git commit -m "message"
 
